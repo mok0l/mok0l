@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hey, I'm Sereymongkol Ngorn 👋
 
-<!--
-**mok0l/mok0l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Developer | Technology Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student from Cambodia 🇰🇭, interested in software development, networking, Linux, and cybersecurity.
+
+## 🚀 About Me
+
+- 🎓 Studying Computer Science
+- 💻 Building Discord bots and software projects
+- 🌐 Interested in networking and system administration
+- 🔐 Exploring cybersecurity
+- 🐧 Learning Linux and development tools
+- 🎯 Always learning and improving my technical skills
+
+## 🛠️ Technologies & Tools
+
+**Currently Working With**
+- JavaScript
+- Node.js
+- Discord.js
+- SQLite
+- Git & GitHub
+
+**Exploring**
+- Python
+- C++
+- Linux
+- Networking
+- Cybersecurity
+
+## 📌 Featured Projects
+
+### Infinity-Notifier
+A YouTube notification Discord bot built with JavaScript, Discord.js v14, and SQLite.
+
+### Other Projects
+Exploring software development, automation, networking, and system administration.
+
+## 🎯 Goals
+
+- Improve my programming skills
+- Build useful software projects
+- Develop my networking and cybersecurity knowledge
+- Contribute to open-source projects
+
+---
+
+### mok0l
+
+*Building skills. Creating projects. Improving every day.*
+
+🇰🇭 Made with dedication in Cambodia.
